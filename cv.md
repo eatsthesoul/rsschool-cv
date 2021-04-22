@@ -12,3 +12,9 @@ Swift, Foundation, UIKit, Alamofire, Firebase.
 
 ### Code examples:
 https://github.com/eatsthesoul/Networking
+
+### Education
+* Belarusian National Technical University - Automatic information processing systems
+* Minsk State Power Engineering College - Automation and process control
+
+### English level - A2/B1
