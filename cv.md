@@ -3,7 +3,7 @@
 ## Contacts:
 **Email:** eatsthesoul@gmail.com
 **Telegram** eatsthesoul
-**Mobile** +375336766658
+**Mobile** +375336716658
 
 ### My main desire is to make the world a better place!
 
